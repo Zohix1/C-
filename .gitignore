@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # exe
 *.exe
 *.json
 
+=======
+>>>>>>> c97508c71c5566374ed9187e602fdb2cc2d2bf73
 # Prerequisites
 *.d
 
@@ -34,6 +37,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # cuda
 *.i
@@ -42,3 +46,5 @@
 *.ptx
 *.cubin
 *.fatbin
+=======
+>>>>>>> c97508c71c5566374ed9187e602fdb2cc2d2bf73
